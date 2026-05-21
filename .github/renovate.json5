@@ -1,0 +1,6 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>jobs62/infra//renovate-config/default.json5"
+  ]
+}
