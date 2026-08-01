@@ -1,3 +1,3 @@
 # Blog
 
-This is empty for now
+ - [Software Engineering Is a Game of Loops](loops.md)
