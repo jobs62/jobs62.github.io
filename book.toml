@@ -3,3 +3,13 @@ authors = ["Ch.-David"]
 language = "en"
 src = "src"
 title = "Jobs62's book"
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output]
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
