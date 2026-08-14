@@ -4,5 +4,6 @@
   - [Software Engineering Is a Game of Loops](./blog/loops.md)
   - [The Loop Stack and the Testing Pyramid Are the Same Picture](./blog/testing-pyramid-loop-stack.md)
   - [Async code from first principles](./blog/async-from-first-principles.md)
+  - [Precision, recall, and the security alert factory](./blog/precision-recall-security-alert-fatigue.md)
 
 - [Homelab](./homelab/README.md)
